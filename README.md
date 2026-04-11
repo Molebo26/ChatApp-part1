@@ -14,3 +14,8 @@ Validation Rules
 Username
 Must contain an underscore _
 Must not be longer than 5 characters
+Password
+Minimum 8 characters
+At least 1 uppercase letter
+At least 1 number
+At least 1 special character
