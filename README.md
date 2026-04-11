@@ -10,3 +10,7 @@ The system allows a user to register by entering:
 Username
 Password
 South African cell phone number
+Validation Rules
+Username
+Must contain an underscore _
+Must not be longer than 5 characters
