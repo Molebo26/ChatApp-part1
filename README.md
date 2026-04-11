@@ -22,3 +22,8 @@ At least 1 special character
 Cell Phone Number
 Must start with +27
 Must be followed by 9 digits
+Login Functionality
+User can log in using registered username and password
+Displays:
+Success message if correct
+Error message if incorrect
