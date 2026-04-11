@@ -19,3 +19,6 @@ Minimum 8 characters
 At least 1 uppercase letter
 At least 1 number
 At least 1 special character
+Cell Phone Number
+Must start with +27
+Must be followed by 9 digits
